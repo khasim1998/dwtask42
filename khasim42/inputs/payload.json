@@ -1,0 +1,11 @@
+{
+ "item": {
+ "type": "book",
+ "price": 49.99,
+ "properties": {
+ "title": "XQuery Kick Start",
+ "author": ["raj","shubh"],
+ "year": 2003
+ }
+ }
+}
